@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xsadrace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xsadrace" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/muhamad-adli-1ba8b726b/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad adli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhamad-adli-1ba8b726b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad adli" height="30" width="40" /></a>
 <a href="https://fb.com/muhamad adli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhamad adli" height="30" width="40" /></a>
 <a href="https://instagram.com/adlidarwis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@adlidarwis_" height="30" width="40" /></a>
 <a href="https://discord.gg/adleeee#0459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adleeee#0459" height="30" width="40" /></a>
