@@ -1,4 +1,4 @@
-<a href="[https://www.linkedin.com/in/muhamad-adli-1ba8b726b/](https://media.licdn.com/dms/image/D5616AQGDmmlDWwHL6Q/profile-displaybackgroundimage-shrink_350_1400/0/1683801865221?e=1710979200&v=beta&t=duO3_yud0O62pEOx25EUiUDbXsdCoPrjXoheyMcWlq4)" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5616AQGDmmlDWwHL6Q/profile-displaybackgroundimage-shrink_350_1400/0/1683801864418?e=1689206400&v=beta&t=kKuF9bYzWhYKrj33O-_h9uwopoOYDzEFjW9cEkgMW3w" alt="muhamad adli" /></a>
+<a href="https://www.linkedin.com/in/muhamad-adli-1ba8b726b/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5616AQGDmmlDWwHL6Q/profile-displaybackgroundimage-shrink_350_1400/0/1683801864418?e=1689206400&v=beta&t=kKuF9bYzWhYKrj33O-_h9uwopoOYDzEFjW9cEkgMW3w" alt="muhamad adli" /></a>
 <h1 align="center">Hi 👋, I'm AdliDarwis</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
