@@ -24,10 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats & Snake Strike Contribution
+## 📊 GitHub Stats & Snake Contribution Graph
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adlidarwis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github.com/adlidarwis/adlidarwis/blob/output/github-contribution-grid-snake.svg" alt="snake" width="48%"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;" width="48%"/>
 </p>
 
 <p align="center">
@@ -59,37 +59,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=adlidarwis&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- 🐍 Snake Animation Setup -->
-<!-- Add this to your GitHub Actions .github/workflows/snake.yml -->
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
