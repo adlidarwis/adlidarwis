@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Muhamad+Adli;Informatics+Student+%7C+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/70/f3/f5/70f3f5bb7b9c7588ae747a4f667d8e45.gif" width="100%" alt="banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3DF7E9&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Muhamad+Adli+%F0%9F%91%8B;Final+Year+Informatics+Student+at+PNJ;Android+%7C+Web+%7C+Front-End+Developer;Let's+Build+Something+Impactful+Together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,30 +7,33 @@
 # 💫 About Me:
 🎓 I'm currently in my final semester (8th) of D4 Informatics and Computer Engineering at Politeknik Negeri Jakarta, and have also completed Software Engineering programs at NIIT and CCIT FT UI.<br><br>💻 I’ve built various projects — from Android apps and web platforms to desktop software — using languages like Java, JavaScript, Python, PHP, HTML, CSS, XML, and SQL.<br><br>🛠️ Tools I use: Visual Studio Code, Android Studio, Firebase, Git, Jenkins, SQL Server, Figma, and more. I'm also proficient in Adobe Photoshop, Premiere, Canva, Blender, ZBrush, and Autodesk Maya.<br><br>📱 My focus areas include UI/UX Design, Android Development, Web Development, and Front-End Development.<br><br>🚀 Actively looking for an internship opportunity at Telkom Indonesia to grow and contribute in a dynamic team.<br><br>Let’s connect and create something impactful!
 
----
-
-## 🌐 Connect with me:
-<p align="left">
-  <a href="https://discord.gg/adleeee#0459" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://fb.com/muhamad%20adli" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/adlidarwis_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhamad-adli-1ba8b726b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/xsadrace" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="mailto:muhammadadli180603@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adleeee#0459) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/muhamad%20adli) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adlidarwis_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-adli-1ba8b726b/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/xsadrace) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadadli180603@gmail.com) 
 
 ---
 
 # 💻 Tech Stack:
-[![](https://skillicons.dev/icons?i=java,kotlin,js,ts,python,php,html,css,sql,nodejs,react,figma,firebase,androidstudio,vscode,jenkins,git,docker,mysql,postman,blender,photoshop,premierepro,aftereffects,xd,github)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,kotlin,nodejs,git,github,gitlab,firebase,react,docker,mysql,figma,ps,pr,ae,xd,blender,zbrush,maya,linux,gcp,jenkins,phpstorm,vscode,androidstudio" />
+</p>
 
 ---
 
-# 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adlidarwis&theme=gotham&show_icons=true&count_private=true&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adlidarwis&theme=gotham&hide_border=false" height="165"/>
-</div>
+## 📊 GitHub Stats & Snake Strike Contribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adlidarwis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github.com/adlidarwis/adlidarwis/blob/output/github-contribution-grid-snake.svg" alt="snake" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adlidarwis&theme=gotham&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlidarwis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
+</p>
 
 ---
 
@@ -45,38 +44,52 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🐍 GitHub Contribution Snake
+### ✍️ Random Dev Quote
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=adlidarwis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Snake animation GitHub Actions -->
-<!-- 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
--->
+---
 
-<!-- Proudly created with ❤️ and GPRM ( https://gprm.itsvg.in ) -->
+<!-- 🐍 Snake Animation Setup -->
+<!-- Add this to your GitHub Actions .github/workflows/snake.yml -->
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
