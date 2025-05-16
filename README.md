@@ -96,15 +96,3 @@
 </p>
 
 ---
-
-## 🎥 BINARY.GIF()
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=adlidarwis&icon=2&color=6" />
-</p>
