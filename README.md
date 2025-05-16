@@ -92,7 +92,15 @@
 ## 🔝 TOP.CONTRIBUTED.REPO()
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=matrix&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=dark&colors=0f0,000,0f0&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🎥 BINARY.GIF()
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80%" />
 </p>
 
 ---
