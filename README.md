@@ -1,61 +1,102 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=3DF7E9&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Muhamad+Adli+%F0%9F%91%8B;Final+Year+Informatics+Student+at+PNJ;Android+%7C+Web+%7C+Front-End+Developer;Let's+Build+Something+Impactful+Together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED...;Initializing+Profile...;Welcome+to+Adli's+Cyber+Lab+%F0%9F%94%91;Final+Year+Informatics+Student+%7C+PNJ;Android+%7C+Web+%7C+Front-End+Dev;Let's+Hack+Growth+%26+Impact+Together!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square&logo=appveyor" />
+</h1>
+
+---
+
+## 👨‍💻 MUHAMAD ADLI // SYSTEM.INIT()
+
+```bash
+🎓 Final Year Student @ PNJ
+🧠 Software Engineering @ NIIT & CCIT FT UI
+💻 Android | Web | Front-End Developer
+🚀 Building impactful & accessible tech
+🎯 Looking for Internship @ Telkom Indonesia
+```
+
+---
+
+## ⚙️ SYSTEM.TOOLS()
+
+```bash
+🧬 Languages: Java, Kotlin, JS, Python, PHP, SQL, HTML, CSS
+🧰 Dev Tools: Android Studio, VS Code, Git, Jenkins, Firebase, GCP
+🎨 Media & Design: Figma, Photoshop, Premiere, AE, Blender, Maya, ZBrush
+🖥️ Platforms: Linux, Windows, SQL Server, GitHub Actions
+```
+
+---
+
+## 🌐 CONNECT.TO("ADLI")
+
+<p align="center">
+  <a href="https://discord.com/users/adleeee#0459"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+  <a href="https://fb.com/muhamad%20adli"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/adlidarwis_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/muhamad-adli-1ba8b726b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/xsadrace"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
+  <a href="mailto:muhammadadli180603@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-# 💫 About Me:
-🎓 I'm currently in my final semester (8th) of D4 Informatics and Computer Engineering at Politeknik Negeri Jakarta, and have also completed Software Engineering programs at NIIT and CCIT FT UI.<br><br>💻 I’ve built various projects — from Android apps and web platforms to desktop software — using languages like Java, JavaScript, Python, PHP, HTML, CSS, XML, and SQL.<br><br>🛠️ Tools I use: Visual Studio Code, Android Studio, Firebase, Git, Jenkins, SQL Server, Figma, and more. I'm also proficient in Adobe Photoshop, Premiere, Canva, Blender, ZBrush, and Autodesk Maya.<br><br>📱 My focus areas include UI/UX Design, Android Development, Web Development, and Front-End Development.<br><br>🚀 Actively looking for an internship opportunity at Telkom Indonesia to grow and contribute in a dynamic team.<br><br>Let’s connect and create something impactful!
+## 💻 TECH.STACK()
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adleeee#0459) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/muhamad%20adli) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adlidarwis_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-adli-1ba8b726b/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/xsadrace) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadadli180603@gmail.com) 
-
----
-
-# 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,kotlin,nodejs,git,github,gitlab,firebase,react,docker,mysql,figma,ps,pr,ae,xd,blender,zbrush,maya,linux,gcp,jenkins,phpstorm,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,js,ts,php,html,css,python,nodejs,mysql,firebase,git,github,figma,linux,docker,jenkins,vscode,ps,pr,ae,xd,blender,zbrush,maya" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Snake Contribution Graph
+## 📊 SYSTEM.METRICS()
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adlidarwis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adlidarwis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adlidarwis&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adlidarwis&theme=gotham&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlidarwis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adlidarwis&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlidarwis&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+## 🏆 GITHUB.TROPHIES()
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adlidarwis&theme=matrix&no-bg=true&no-frame=true&margin-w=6" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🐍 CONTRIBUTION.SNAKE()
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=adlidarwis&icon=0&color=0)](https://visitcount.itsvg.in) 
+## 💡 RANDOM.DEV.QUOTE()
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🔝 TOP.CONTRIBUTED.REPO()
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=adlidarwis&limit=5&theme=matrix&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=adlidarwis&icon=2&color=6" />
+</p>
